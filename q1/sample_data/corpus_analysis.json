@@ -1,0 +1,381 @@
+{
+  "query": "cat:cs.LG",
+  "papers_processed": 10,
+  "processing_timestamp": "2026-09-08T21:42:40.938Z",
+  "corpus_stats": {
+    "total_abstracts": 10,
+    "total_words": 1751,
+    "unique_words_global": 685,
+    "avg_abstract_length": 175.1,
+    "longest_abstract_words": 245,
+    "shortest_abstract_words": 115
+  },
+  "top_50_words": [
+    {
+      "word": "data",
+      "frequency": 24,
+      "documents": 7
+    },
+    {
+      "word": "0",
+      "frequency": 14,
+      "documents": 4
+    },
+    {
+      "word": "model",
+      "frequency": 13,
+      "documents": 7
+    },
+    {
+      "word": "accuracy",
+      "frequency": 12,
+      "documents": 8
+    },
+    {
+      "word": "network",
+      "frequency": 11,
+      "documents": 5
+    },
+    {
+      "word": "iot",
+      "frequency": 9,
+      "documents": 1
+    },
+    {
+      "word": "learning",
+      "frequency": 9,
+      "documents": 6
+    },
+    {
+      "word": "using",
+      "frequency": 9,
+      "documents": 7
+    },
+    {
+      "word": "architecture",
+      "frequency": 8,
+      "documents": 2
+    },
+    {
+      "word": "detection",
+      "frequency": 8,
+      "documents": 2
+    },
+    {
+      "word": "real",
+      "frequency": 8,
+      "documents": 4
+    },
+    {
+      "word": "classifier",
+      "frequency": 7,
+      "documents": 2
+    },
+    {
+      "word": "clinical",
+      "frequency": 7,
+      "documents": 2
+    },
+    {
+      "word": "propose",
+      "frequency": 7,
+      "documents": 6
+    },
+    {
+      "word": "classification",
+      "frequency": 6,
+      "documents": 5
+    },
+    {
+      "word": "counterfactual",
+      "frequency": 6,
+      "documents": 1
+    },
+    {
+      "word": "devices",
+      "frequency": 6,
+      "documents": 2
+    },
+    {
+      "word": "embedding",
+      "frequency": 6,
+      "documents": 1
+    },
+    {
+      "word": "experiments",
+      "frequency": 6,
+      "documents": 6
+    },
+    {
+      "word": "machine",
+      "frequency": 6,
+      "documents": 4
+    },
+    {
+      "word": "original",
+      "frequency": 6,
+      "documents": 3
+    },
+    {
+      "word": "paper",
+      "frequency": 6,
+      "documents": 6
+    },
+    {
+      "word": "performance",
+      "frequency": 6,
+      "documents": 4
+    },
+    {
+      "word": "causal",
+      "frequency": 5,
+      "documents": 1
+    },
+    {
+      "word": "code",
+      "frequency": 5,
+      "documents": 3
+    },
+    {
+      "word": "datasets",
+      "frequency": 5,
+      "documents": 3
+    },
+    {
+      "word": "due",
+      "frequency": 5,
+      "documents": 3
+    },
+    {
+      "word": "features",
+      "frequency": 5,
+      "documents": 1
+    },
+    {
+      "word": "framework",
+      "frequency": 5,
+      "documents": 3
+    },
+    {
+      "word": "level",
+      "frequency": 5,
+      "documents": 2
+    },
+    {
+      "word": "methods",
+      "frequency": 5,
+      "documents": 1
+    },
+    {
+      "word": "new",
+      "frequency": 5,
+      "documents": 4
+    },
+    {
+      "word": "prediction",
+      "frequency": 5,
+      "documents": 2
+    },
+    {
+      "word": "samples",
+      "frequency": 5,
+      "documents": 2
+    },
+    {
+      "word": "search",
+      "frequency": 5,
+      "documents": 1
+    },
+    {
+      "word": "solution",
+      "frequency": 5,
+      "documents": 4
+    },
+    {
+      "word": "space",
+      "frequency": 5,
+      "documents": 5
+    },
+    {
+      "word": "any",
+      "frequency": 4,
+      "documents": 3
+    },
+    {
+      "word": "attacks",
+      "frequency": 4,
+      "documents": 1
+    },
+    {
+      "word": "based",
+      "frequency": 4,
+      "documents": 3
+    },
+    {
+      "word": "coding",
+      "frequency": 4,
+      "documents": 2
+    },
+    {
+      "word": "diagnosis",
+      "frequency": 4,
+      "documents": 2
+    },
+    {
+      "word": "drc",
+      "frequency": 4,
+      "documents": 1
+    },
+    {
+      "word": "h2nt",
+      "frequency": 4,
+      "documents": 1
+    },
+    {
+      "word": "high",
+      "frequency": 4,
+      "documents": 4
+    },
+    {
+      "word": "icd10",
+      "frequency": 4,
+      "documents": 2
+    },
+    {
+      "word": "inpatient",
+      "frequency": 4,
+      "documents": 2
+    },
+    {
+      "word": "models",
+      "frequency": 4,
+      "documents": 2
+    },
+    {
+      "word": "motif",
+      "frequency": 4,
+      "documents": 1
+    },
+    {
+      "word": "networks",
+      "frequency": 4,
+      "documents": 2
+    }
+  ],
+  "technical_terms": {
+    "uppercase_terms": [
+      "BO-GP",
+      "Bot-IoT-2018",
+      "CNN",
+      "CO2",
+      "DARTS",
+      "DRC",
+      "DT",
+      "DeepWalk",
+      "DeepWalk-based",
+      "ESC-50",
+      "H2NT",
+      "HOP",
+      "ICD10",
+      "ImageNet-1K",
+      "Internet-of-Things",
+      "IoT",
+      "LHC",
+      "Long-Short-Term-Memory",
+      "ML",
+      "ML-based",
+      "MobileNetV2",
+      "NAS",
+      "NT",
+      "PDARTS",
+      "SARS-COV-2",
+      "SRAM",
+      "YAMNet"
+    ],
+    "numeric_terms": [
+      "$50$",
+      "0.08%",
+      "0.35",
+      "0.38",
+      "0.4",
+      "0.44",
+      "0.56",
+      "0.57",
+      "0.58",
+      "0.71",
+      "0.73",
+      "1",
+      "10%-37%",
+      "10.3",
+      "12%-25%",
+      "201",
+      "2017",
+      "2018",
+      "2020",
+      "215.7%",
+      "24%",
+      "32.7",
+      "32x",
+      "46%",
+      "76.5%",
+      "77.0%",
+      "92",
+      "Bot-IoT-2018",
+      "CO2",
+      "ESC-50",
+      "F1-score",
+      "F1-scores",
+      "H2",
+      "H2NT",
+      "ICD10",
+      "ImageNet-1K",
+      "MobileNetV2",
+      "SARS-COV-2",
+      "top1"
+    ],
+    "hyphenated_terms": [
+      "BO-GP",
+      "Bot-IoT-2018",
+      "DeepWalk-based",
+      "ESC-50",
+      "F-score",
+      "F1-score",
+      "F1-scores",
+      "Higher-order",
+      "ImageNet-1K",
+      "Internet-of-Things",
+      "Long-Short-Term-Memory",
+      "ML-based",
+      "SARS-COV-2",
+      "bi-level",
+      "case-mix",
+      "co-exist",
+      "de-emphasizing",
+      "high-performance",
+      "human-generated",
+      "in-distribution",
+      "macro-level",
+      "micro-level",
+      "multi-label",
+      "non-causal",
+      "non-competitive",
+      "non-learnable",
+      "real-life",
+      "real-time",
+      "real-world",
+      "single-level",
+      "state-of-the-art",
+      "up-to"
+    ]
+  },
+  "category_distribution": {
+    "cs.CR": 1,
+    "cs.IR": 2,
+    "cs.LG": 10,
+    "cs.NI": 1,
+    "cs.SI": 1,
+    "hep-ex": 1,
+    "physics.data-an": 1,
+    "stat.ML": 1
+  }
+}
