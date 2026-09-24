@@ -22,8 +22,8 @@
       "total_words": 117,
       "unique_words": 79,
       "total_sentences": 8,
-      "avg_words_per_sentence": 14.62,
-      "avg_word_length": 4.85,
+      "avg_words_per_sentence": 14.625,
+      "avg_word_length": 4.854700854700854,
       "longest_sentence_words": 21,
       "shortest_sentence_words": 9,
       "top_20_words": [
@@ -131,7 +131,7 @@
       "unique_words": 85,
       "total_sentences": 4,
       "avg_words_per_sentence": 32.5,
-      "avg_word_length": 5.18,
+      "avg_word_length": 5.176923076923077,
       "longest_sentence_words": 45,
       "shortest_sentence_words": 23,
       "top_20_words": [
@@ -238,8 +238,8 @@
       "total_words": 230,
       "unique_words": 126,
       "total_sentences": 9,
-      "avg_words_per_sentence": 25.56,
-      "avg_word_length": 5.34,
+      "avg_words_per_sentence": 25.555555555555557,
+      "avg_word_length": 5.339130434782609,
       "longest_sentence_words": 51,
       "shortest_sentence_words": 12,
       "top_20_words": [
@@ -353,8 +353,8 @@
       "total_words": 169,
       "unique_words": 116,
       "total_sentences": 7,
-      "avg_words_per_sentence": 24.14,
-      "avg_word_length": 5.48,
+      "avg_words_per_sentence": 24.142857142857142,
+      "avg_word_length": 5.479289940828402,
       "longest_sentence_words": 41,
       "shortest_sentence_words": 11,
       "top_20_words": [
@@ -468,8 +468,8 @@
       "total_words": 163,
       "unique_words": 117,
       "total_sentences": 8,
-      "avg_words_per_sentence": 20.38,
-      "avg_word_length": 5.42,
+      "avg_words_per_sentence": 20.375,
+      "avg_word_length": 5.423312883435583,
       "longest_sentence_words": 40,
       "shortest_sentence_words": 13,
       "top_20_words": [
@@ -574,7 +574,7 @@
       "unique_words": 113,
       "total_sentences": 8,
       "avg_words_per_sentence": 23.75,
-      "avg_word_length": 5.64,
+      "avg_word_length": 5.636842105263158,
       "longest_sentence_words": 55,
       "shortest_sentence_words": 10,
       "top_20_words": [
@@ -682,7 +682,7 @@
       "unique_words": 151,
       "total_sentences": 10,
       "avg_words_per_sentence": 24.5,
-      "avg_word_length": 5.79,
+      "avg_word_length": 5.7877551020408164,
       "longest_sentence_words": 32,
       "shortest_sentence_words": 13,
       "top_20_words": [
@@ -786,8 +786,8 @@
       "total_words": 236,
       "unique_words": 125,
       "total_sentences": 11,
-      "avg_words_per_sentence": 21.45,
-      "avg_word_length": 5.66,
+      "avg_words_per_sentence": 21.454545454545453,
+      "avg_word_length": 5.656779661016949,
       "longest_sentence_words": 37,
       "shortest_sentence_words": 8,
       "top_20_words": [
@@ -895,7 +895,7 @@
       "unique_words": 76,
       "total_sentences": 4,
       "avg_words_per_sentence": 28.75,
-      "avg_word_length": 5.18,
+      "avg_word_length": 5.182608695652174,
       "longest_sentence_words": 36,
       "shortest_sentence_words": 21,
       "top_20_words": [
@@ -1006,8 +1006,8 @@
       "total_words": 156,
       "unique_words": 95,
       "total_sentences": 7,
-      "avg_words_per_sentence": 22.29,
-      "avg_word_length": 5.01,
+      "avg_words_per_sentence": 22.285714285714285,
+      "avg_word_length": 5.012820512820513,
       "longest_sentence_words": 37,
       "shortest_sentence_words": 11,
       "top_20_words": [
